@@ -36,7 +36,7 @@ Locate "Virtual Cam" filter:
 
 ![image](images/image_1.png)
 
-**Use the `File` menu to Open the `filter.dll` from the output folder
+**Use the `File` menu to Open the `filter.dll` from the output folder**
 
 ![image](images/image_2.png)
 

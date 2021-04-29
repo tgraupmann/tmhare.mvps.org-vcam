@@ -32,11 +32,37 @@ Use Widows 10 SDK GraphEdit or [GraphStudioNext](https://github.com/cplussharp/g
 
 Locate "Virtual Cam" filter:
 
-![](README-01.png)
+**Open Graph-Studio-Next**
 
-Build a pipeline and run:
+![image](images/image_1.png)
 
-![](README-02.png)
+**Use the `File` menu to Open the `filter.dll` from the output folder
+
+![image](images/image_2.png)
+
+**Use the Scan for Class IDs button**
+
+![image](images/image_3.png)
+
+**Select the filter and click OK**
+
+![image](images/image_4.png)
+
+**Right-click the `Virtual Cam` node**
+
+![image](images/image_5.png)
+
+**Add a Render Pin**
+
+![image](images/image_6.png)
+
+**Click the `Play` toolbar button**
+
+![image](images/image_7.png)
+
+**The filter will show in a render window**
+
+![image](images/image_8.png)
 
 ## Further information
 
